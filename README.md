@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @fantarics
 - 👀 I’m interested in python development
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any python projects that interest you and will interest me!
-- 📫 How to reach me:
-          Telegram: @addlyy
+
           
 
 <!---
